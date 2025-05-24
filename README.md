@@ -1,12 +1,21 @@
-# React + Vite
+🐾 Bauru Cat Adoption
+Projeto gratuito para ajudar abrigos de animais em Bauru-SP a:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🐱 Cadastrar e gerenciar gatos disponíveis para adoção
 
-Currently, two official plugins are available:
+📋 Organizar dados de forma simples e acessível
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+❤️ Conectar mais pessoas interessadas em adotar
 
-## Expanding the ESLint configuration
+🚀 Objetivo
+Facilitar o processo de adoção e aumentar a visibilidade dos animais resgatados.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tecnologias Utilizadas
+Front-end: React + Tailwind CSS
+
+Back-end: Node.js + Express
+
+Banco de dados: MongoDB
+
+🤝 Contribuições
+Este projeto é open-source. Toda ajuda é bem-vinda para expandir e melhorar a plataforma.
