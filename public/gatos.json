@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Mingau",
+    "info": "Gato branco, calmo e dorminhoco.",
+    "contato": "555-0101"
+  },
+  {
+    "nome": "Tigrão",
+    "info": "Listrado e curioso, adora janelas.",
+    "contato": "555-0202"
+  },
+  {
+    "nome": "Luna",
+    "info": "Gata preta, caçadora de sombras.",
+    "contato": "555-0303"
+  },
+  {
+    "nome": "Nino",
+    "info": "Gato cinza, companheiro de sofá.",
+    "contato": "555-0404"
+  },
+  {
+    "nome": "Amora",
+    "info": "Pequena, arisca e muito esperta.",
+    "contato": "555-0505"
+  },
+  {
+    "nome": "Bartô",
+    "info": "Gato gordo, vive perto da geladeira.",
+    "contato": "555-0606"
+  },
+  {
+    "nome": "Mimi",
+    "info": "Gata carinhosa, gosta de colo.",
+    "contato": "555-0707"
+  },
+  {
+    "nome": "Chico",
+    "info": "Ativo, sobe em tudo que vê.",
+    "contato": "555-0808"
+  },
+  {
+    "nome": "Zelda",
+    "info": "Gata elegante, dona da casa.",
+    "contato": "555-0909"
+  },
+  {
+    "nome": "Pipoca",
+    "info": "Pequeno, rápido e brincalhão.",
+    "contato": "555-1010"
+  }
+]
